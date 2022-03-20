@@ -1,0 +1,84 @@
+#mainFields{
+    margin-top: -60px;
+    margin-bottom: 90px;
+}
+
+#card-body{
+    text-align: left;
+}
+
+.mainField{
+    width: 100%;
+}
+
+#categoryField{
+    background-color: #FFF;
+}
+
+#categoryMenu{
+    
+}
+
+#categoryMenu1{
+    margin-top: 15px;
+    float: left;
+}
+
+#categoryMenu1Content_{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 20px;
+    display: inline;
+}
+
+#menuColumns1{
+    padding-right: 85px;
+    margin-left: 20px;
+
+}
+
+#menuColumns2{
+    display: none;
+}
+
+.menuItem1{
+    cursor: pointer;
+    padding: 0.5rem;
+
+}
+
+.bi{
+    font-family: bs-icon;
+}
+
+.bigIcon{
+    font-size: 20px;
+    color: #ccc;
+    position: absolute;
+    top: -23px;
+}
+
+.menuItemCat{
+    margin-top: 20px;
+}
+
+.subMenuItem1{
+    padding: 0px;
+    cursor: pointer;
+}
+
+#menuColumns1 a, #menuColumns2 a {
+    color: #000 !important;
+}
+
+#menuColumns1 a:hover, #menuColumns2 a:hover {
+    color: #f2afe2 !important;
+}
+
+#menuColumns1 .active, #menuColumns2 .active {
+    color: #d180c1 !important;
+}
+
+.darkPink{
+    color: #c505a5 !important;
+}
